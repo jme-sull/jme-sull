@@ -1,8 +1,7 @@
-### Here is what I'm working on! 👋
-
-
-Here are some ideas to get you started:
-
+Hello! 👋
+I'm Jamie! I'm a full-stack web developer and a graduate of the Lambda School Web Development program. 
+ 
+### Here is what I'm working on!
 - 🔭 I’m currently working on ... my Lambda Labs project
 - 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate on ... Anything!
