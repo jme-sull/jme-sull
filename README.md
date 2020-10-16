@@ -11,7 +11,7 @@
 
 ### I'm Jamie Crawshaw Sullivan
 - 🔭 I’m currently working on ... My Lambda Labs project
-- 🌱 I’m currently learning ... React.js
+- 🌱 I’m currently learning ... TypeScript
 - 🤔 I’m looking for help with ...Finding my first full-time web development job!
 - 💬 Ask me about ... My time at Lambda School
 - 📫 How to reach me: ... jkcrawshaw@gmail.com
