@@ -15,4 +15,3 @@
 - 🤔 I’m looking for help with ...Finding my first full-time web development job!
 - 💬 Ask me about ... My time at Lambda School
 - 📫 How to reach me: ... jkcrawshaw@gmail.com
-- ⚡ Fun fact: ... I'm a runner - but only in the fall/winter/spring. I hate the heat!
