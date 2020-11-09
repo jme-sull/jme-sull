@@ -10,7 +10,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif" />
 
 ### I'm Jamie Crawshaw Sullivan
-- 🔭 I’m currently working on ... My Lambda Labs project
+- 🔭 I’m currently working on ... A React/Node.js Blog App 
 - 🌱 I’m currently learning ... Ruby on Rails
 - 🤔 I’m looking for help with ...Finding my first full-time web development job!
 - 💬 Ask me about ... My time at Lambda School
