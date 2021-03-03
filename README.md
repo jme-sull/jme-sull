@@ -1,5 +1,4 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-<br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif" />
 
 ### I'm Jamie Crawshaw Sullivan
