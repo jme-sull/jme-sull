@@ -2,7 +2,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif" />
 
 ### I'm Jamie Crawshaw Sullivan
-- 🔭 I’m currently working on ...A stock ticker app 
-- 🌱 I’m currently learning ... Ruby on Rails
+- 🔭 I’m currently working on ... Professionally Employed at Ambra Health 
 - 💬 Ask me about ... My time at Lambda School
 - 📫 How to reach me: ... jkcrawshaw@gmail.com
