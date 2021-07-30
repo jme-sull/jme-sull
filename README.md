@@ -2,6 +2,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/q6RoNkLlFNjaw/giphy.gif" />
 
 ### I'm Jamie Crawshaw Sullivan
-- 🔭 I’m currently working on ... Professionally Employed at Ambra Health 
+- 🔭 I’m currently working on ... Professionally employed at Ambra Health 
 - 💬 Ask me about ... My time at Lambda School
 - 📫 How to reach me: ... jkcrawshaw@gmail.com
